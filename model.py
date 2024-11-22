@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 from ultralytics import YOLO
 import torch
 
-# Change this to your working directory
 os.chdir(r'c:\Users\jiwan\OneDrive\Desktop\yolo')
 
 # Check if CUDA (GPU) is available
